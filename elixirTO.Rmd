@@ -1,0 +1,15 @@
+---
+title: "Elixir Team Torino"
+author: "Raffaele A Calogero"
+date: "9/8/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Elixir Team Torino
+
+In January 2019 The University of Turin became part of Elixir IT
+
