@@ -38,11 +38,11 @@ To facilitate the spread of the Elixir activities we have build a team incorpora
 
 - System Biology:
 
-    + Prof. [*Michele Caselle*](mailto:caselle@to.infn.it)  (Dept. of Fisics) **Web page**
+    + Prof. [*Michele Caselle*](mailto:caselle@to.infn.it)  (Dept. of Physics) [**Web page**](http://personalpages.to.infn.it/~caselle/BioPhys/BioPhys.html)
 
-- Machine learning & proteins data analysis:
+- Machine-learning applications in Biology and Medicine:
 
-    + Prof. [*Piero Fariselli*](mailto:piero.fariselli@unito.it) (Dept. of Medical Sciences) **Web page**
+    + Prof. [*Piero Fariselli*](mailto:piero.fariselli@unito.it) (Dept. of Medical Sciences) [**Web page**](https://www.unito.it/persone/pfarisel)
 
 - Epigenetics:
 
@@ -80,11 +80,12 @@ Calogero, Cordero and Beccuti are the co-founder of the [*reproducible-bioinform
 
 ### Machine learning
 
-Prof. Fariselli has a long experience in macine learning
+Prof. Fariselli has a long-standing experience in the development of computational tools for
+biomolecule feature predictions, and machine-learning applications in Biology and Medicine.
 
 **Related pubblications**:
 
-- [*Benvenuta et al. On the Upper Bounds of the Real-Valued Predictions. Bioinform Biol Insights. 2019*](https://www.ncbi.nlm.nih.gov/pubmed/31488948)
+- [*Milan et al. Tracing seafood at high spatial resolution using NGS-generated data and machine learning: Comparing microbiome versus SNPs. Food Chem. 2019*](https://www.ncbi.nlm.nih.gov/pubmed/30827626)
 
 - [*Montanucci et al. DDGun: an untrained method for the prediction of protein stability changes upon single and multiple point variations. BMC Bioinformatics. 2019*](https://www.ncbi.nlm.nih.gov/pubmed/31266447)
 
@@ -99,7 +100,7 @@ Calogero, Cordero and Beccuti together with their research groups are involved i
 
 - Ordonez-Rueda et al. Apoptotic cell exclusion and bias-free single-cell selection are important QC requirements for successful single-cell sequencing applications. Cytometry Part A, accepted for publication. 
 
-- Alessandri et al. rCASC: reproducible classification analysis of single-cell sequencing data. Gigascience in press. 
+- [*Alessandri et al. rCASC: reproducible classification analysis of single-cell sequencing data. Gigascience 2019*](https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giz105/5565135?guestAccessKey=5f15ef82-280e-48ea-a984-2472e8d9be75). 
 
 - [*Alessandri et al. Differential Expression Analysis in Single-Cell Transcriptomics. Methods Mol Biol 2019*](https://www.ncbi.nlm.nih.gov/pubmed/31028652)
 
