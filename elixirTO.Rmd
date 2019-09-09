@@ -2,11 +2,14 @@
 title: "Elixir Team Torino"
 author: "Raffaele A Calogero"
 date: "9/8/2019"
-output: html_document
+output: 
+    pdf_document:
+      latex_engine: xelatex
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+
 ```
 
 ## The team
@@ -23,31 +26,31 @@ To facilitate the spread of the Elixir activities we have build a team incorpora
 
 - Genomics:
 
-    + Prof. [*Raffaele A. Calogero*](mail.to:raffaele.calogero@unito.it) (Dept.Molecular Biotechnology and Health Sciences)
+    + Prof. [*Raffaele A. Calogero*](mail.to:raffaele.calogero@unito.it) (Dept.Molecular Biotechnology and Health Sciences) [**Web page**](https://orcid.org/0000-0002-2848-628X/print)
 
-    + [*Paolo Provero*](mailto:paolo.provero@unito.it) (Dept.Molecular Biotechnology and Health Sciences)
+    + [*Paolo Provero*](mailto:paolo.provero@unito.it) (Dept.Molecular Biotechnology and Health Sciences) **Web page**
 
 -  Tool development e mathematical models:
 
-    + Dr. [*Francesca Cordero*](mailto:francesca.cordero@unito.it) (Dept. of Computer Science)
+    + Dr. [*Francesca Cordero*](mailto:francesca.cordero@unito.it) (Dept. of Computer Science) **Web page**
 
-    + Dr. [*Marco Beccuti*](mailto:beccuti@di.unito.it)  (Dept. of Computer Science)
+    + Dr. [*Marco Beccuti*](mailto:beccuti@di.unito.it)  (Dept. of Computer Science) **Web page**
 
 - System Biology:
 
-    + Prof. [*Michele Caselle*](mailto:caselle@to.infn.it)  (Dept. of Fisics)
+    + Prof. [*Michele Caselle*](mailto:caselle@to.infn.it)  (Dept. of Fisics) **Web page**
 
 - Machine learning & proteins data analysis:
 
-    + Prof. [*Piero Fariselli*](mailto:piero.fariselli@unito.it) (Dept. of Medical Sciences)
+    + Prof. [*Piero Fariselli*](mailto:piero.fariselli@unito.it) (Dept. of Medical Sciences) **Web page**
 
 - Epigenetics:
 
-    + Prof. [*Salvatore Oliviero*](mailto:salvatore.oliviero@unito.it)  (Dept. of Life Sciences and System Biology)
+    + Prof. [*Salvatore Oliviero*](mailto:salvatore.oliviero@unito.it)  (Dept. of Life Sciences and System Biology) **Web page**
 
 - Human genomes datasets:
 
-  + Prof. [*Giuseppe Matullo*](mailto:giuseppe.matullo@unito.it) (Dept. of Medical Sciences)
+  + Prof. [*Giuseppe Matullo*](mailto:giuseppe.matullo@unito.it) (Dept. of Medical Sciences) **Web page**
   
 Elixir UNITO team is available to answer to technical queries referring to their specific expertises.
 For more information about the activity of Elixir please contact  [*Raffaele A. Calogero*](mail.to:raffaele.calogero@unito.it)
@@ -96,9 +99,9 @@ Calogero, Cordero and Beccuti together with their research groups are involved i
 
 - Ordonez-Rueda et al. Apoptotic cell exclusion and bias-free single-cell selection are important QC requirements for successful single-cell sequencing applications. Cytometry Part A, accepted for publication. 
 
-- Alessandrì et al. rCASC: reproducible classification analysis of single-cell sequencing data. Gigascience in press. 
+- Alessandri et al. rCASC: reproducible classification analysis of single-cell sequencing data. Gigascience in press. 
 
-- [*Alessandrì et al. Differential Expression Analysis in Single-Cell Transcriptomics. Methods Mol Biol 2019*](https://www.ncbi.nlm.nih.gov/pubmed/31028652)
+- [*Alessandri et al. Differential Expression Analysis in Single-Cell Transcriptomics. Methods Mol Biol 2019*](https://www.ncbi.nlm.nih.gov/pubmed/31028652)
 
 - [*Rodriguez-Fraticelli et al. Clonal analysis of lineage fate in native haematopoiesis. Nature 2018*](https://www.ncbi.nlm.nih.gov/pubmed/29323290)
 
